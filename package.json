@@ -1,0 +1,15 @@
+{
+  "name": "whiteboardca",
+  "version": "1.0.0",
+  "description": "CA work",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rebekah McAllister",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^1.7.3"
+  }
+}
